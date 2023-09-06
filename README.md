@@ -16,7 +16,7 @@ In this project We predicted different morphological shapes of galaxy based on t
 * Parameters for the classifying different types of galaxies was based on the reaserch paper: **Machine and Deep Learning applied to galaxy morphology - A
 comparative study**
 * Trained our own CNN model on the data set to get predictions as well as employed pretrained models 
-* Pretrained models such as InceptionV3, ResNet50 and Xception were used on which we trained our data using Artificial Neural Network
+* Pretrained models such as InceptionV3, ResNet50, VGG16 and Xception were used on which we trained our data using Artificial Neural Network
 * Different types of classification features were used classify more types of galaxies such as Lenticular, Elliptical and Spiral
 
  ## Results
@@ -51,4 +51,12 @@ comparative study**
     color: #999;">
     </div>
 </center>
-## Predtion By 
+## Predtion by VGG16
+* Loss 
+*Accuracy
+## Prediction by ResNet50
+* Loss
+* Accuracy
+## Prediction by Xception
+* Loss
+* Accuracy
