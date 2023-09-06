@@ -24,7 +24,7 @@ comparative study**
   * Pretraiend Models Have Accuracy over 93% respectively <!--Har model ka alag alag daalna?-->
 
 ## Prediction By InceptionV3
-* Loss due to inception in 10 epochs with 400 iteration with batch size=32
+* Loss due to inception in 10 epochs with 400 iteration with batch size 32 = 0.15
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -38,7 +38,7 @@ comparative study**
 </br>
 
 
-* Accuracy by inception in 10 epochs with 400 iteration with batch size=32
+* Accuracy by inception in 10 epochs with 400 iteration with batch size 32 = 94.25%
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
