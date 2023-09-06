@@ -8,7 +8,6 @@ In this project We predicted different morphological shapes of galaxy based on t
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    <\div>
 </center>
 </br>
 
