@@ -51,12 +51,15 @@ comparative study**
     color: #999;">
     </div>
 </center>
+
 ## Predtion by VGG16
 * Loss 
-*Accuracy
+* Accuracy
+
 ## Prediction by ResNet50
 * Loss
 * Accuracy
+
 ## Prediction by Xception
 * Loss
 * Accuracy
