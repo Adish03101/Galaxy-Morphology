@@ -23,3 +23,29 @@ comparative study**
  ## Results
   * The self trained model boasts an accuracy of 94.7%
   * Pretraiend Models Have Accuracy over 93% respectively <!--Har model ka alag alag daalna?-->
+
+## Prediction By InceptionV3
+* Loss due to inception in 10 epochs with 400 iteration with batch size=32
+  <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="Loss.png"width="180">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">smthg</div>
+</center>
+</br>
+* Accuracy by inception in 10 epochs with 400 iteration with batch size=32
+  <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="Loss.png"width="180">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">smthg</div>
+</center>
+</br>
