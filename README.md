@@ -20,9 +20,12 @@ comparative study**
 * Different types of classification features were used classify more types of galaxies such as Lenticular, Elliptical and Spiral
 
  ## Results
-  * The self trained model boasts an accuracy of 94.7%
+  * The self trained model boasts an accuracy of 95.7%
   * Pretraiend Models Have Accuracy over 93% respectively <!--Har model ka alag alag daalna?-->
 
+## Predtion By Self-Trained Model
+* Loss due to inception in 10 epochs with 400 iteration with batch size 32 = 0.11
+* Accuracy by inception in 10 epochs with 400 iteration with batch size 32 = 95.78%
 ## Prediction By InceptionV3
 * Loss due to inception in 10 epochs with 400 iteration with batch size 32 = 0.15
 <center>
@@ -48,3 +51,4 @@ comparative study**
     color: #999;">
     </div>
 </center>
+## Predtion By 
