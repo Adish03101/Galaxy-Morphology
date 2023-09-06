@@ -10,7 +10,7 @@ In this project We predicted different morphological shapes of galaxy based on t
     color: #999;
     padding: 2px;">NLP民工的乐园</div>
 </center>
-<br>
+</br>
 
 ## Basic 
 * Used Convolutional Neural Networks(CNN) on the dataset to predict the shape of the galaxy
