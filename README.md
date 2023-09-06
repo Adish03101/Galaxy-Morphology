@@ -4,12 +4,7 @@ In this project We predicted different morphological shapes of galaxy based on t
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="./data/.logo图片/.img.jpg"width="180">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
 </center>
-<br>
 
 ## Basic 
 * Used Convolutional Neural Networks(CNN) on the dataset to predict the shape of the galaxy
