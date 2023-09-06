@@ -3,13 +3,13 @@ In this project We predicted different morphological shapes of galaxy based on t
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Screenshot 2023-09-07 014022.png"width="180">
+    src="Screenshot 2023-09-07 014022.png" width="180">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    <div style="color: orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
-    color: #999;
+    color: #999;">
+    </div>
 </center>
-</br>
 
 ## Basic 
 * Used Convolutional Neural Networks(CNN) on the dataset to predict the shape of the galaxy
@@ -28,25 +28,23 @@ comparative study**
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Loss.png"width="180">
+    src="Loss.png" width="180">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    <div style="color: orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
-    color: #999;
-    <\div>
+    color: #999;">
+    </div>
 </center>
-</br>
 
 
 * Accuracy by inception in 10 epochs with 400 iteration with batch size 32 = 94.25%
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Loss.png"width="180">
+    src="Accuracy.png" width="180">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    <div style="color: orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
-    color: #999;
-    <\div>
+    color: #999;">
+    </div>
 </center>
-</br>
