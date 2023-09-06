@@ -7,9 +7,8 @@ In this project We predicted different morphological shapes of galaxy based on t
 comparative study**
 * Trained our own CNN model on the data set to get predictions as well as employed pretrained models 
 * Pretrained models such as InceptionV3, ResNet50 and Xception were used on which we trained our data using Artificial Neural Network
-* Different types of classification features were used to predicted data, ranging from
+* Different types of classification features were used classify more types of galaxies such as Lenticular, Elliptical and Spiral
 
  ## Results
   * The self trained model boasts an accuracy of 94.7%
-  * Pretraiend Model
-  * 
+  * Pretraiend Models Have Accuracy over 93% respectively <!--Har model ka alag alag daalna?-->
