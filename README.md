@@ -1,7 +1,7 @@
 # Galaxy-Morphology
 In this project We predicted different morphological shapes of galaxy based on the data of Galaxy-Zoo-2
 <center>
-    <img style="border-radius: 0.3125em;
+    <img style="border-radius: 0.32em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="Screenshot 2023-09-07 014022.png" width="180">
     <br>
